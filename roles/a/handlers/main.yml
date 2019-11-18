@@ -1,0 +1,4 @@
+---
+- name: A handler
+  debug:
+    msg: "Handler in role A"

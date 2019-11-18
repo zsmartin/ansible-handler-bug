@@ -1,0 +1,3 @@
+---
+dependencies:
+  - { role: a, when: role_condition | bool }

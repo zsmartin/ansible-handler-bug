@@ -1,0 +1,6 @@
+---
+- name: Task in role A
+  debug:
+    msg: "Task in role A"
+  changed_when: True
+  notify: A handler

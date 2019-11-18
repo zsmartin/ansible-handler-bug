@@ -1,0 +1,4 @@
+---
+- name: Task in role B
+  debug:
+    msg: "Task in role B"
